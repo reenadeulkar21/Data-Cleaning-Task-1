@@ -61,10 +61,3 @@
 
 ---
 
-## 📂 Folder Structure
-data-cleaning-task1/
-│
-├── netflix_titles.csv # Original dataset
-├── cleaned_dataset.csv # Final cleaned data
-├── task1_cleaning.py # Python script used for cleaning
-└── README.md # Summary of the task
